@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @RahilJain1366
-- 👀 I’m interested in Deep Reinforcement Learning
-- 🌱 I’m currently learning Deep Q Networks
-- 💞️ I’m looking to collaborate on Deep Reinforcement Learning Projects
 - 📫 How to reach me? rahiljain1366@gmail.com
 
 <!---
