@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahiljain1366?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahiljain1366)
