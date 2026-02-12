@@ -1,8 +1,65 @@
-Hi, I’m @RahilJain1366, a graduate student in Computer Engineering at UT Dallas with a strong interest in Quantum Computing, Machine Learning and Software Development. I work on projects involving Quantum Reinforcement Learning, QAOA, deep learning for precision agriculture, and motion anomaly detection using edge devices. My experience spans developing intelligent agents, working with CNNs and Binarized Neural Networks. I’ve also developed APIs for banking systems, delivered talks on AI and RL, and built assistive tech like audio-based navigation for the visually impaired. I’m always excited to explore new ideas at the intersection of AI, quantum tech, and real-world applications.
+# Hi there 👋 I’m Rahil Jain
 
-📫 How to reach me? rahiljain1366@gmail.com
+I am a Computer Engineering graduate student at UT Dallas with professional experience in machine learning systems, distributed backend services, and real time applications. I focus on building reliable, high performance software that bridges research ideas with production ready systems.
 
-<!---
-RahilJain1366/RahilJain1366 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My work spans applied machine learning, backend engineering, and systems optimization. I enjoy designing clean architectures, optimizing performance bottlenecks, and deploying scalable services.
+
+---
+
+## 🔭 Currently Working On
+- Open source contributions in machine learning and systems tooling  
+- Performance optimized ML pipelines and backend services  
+
+---
+
+## 🌱 Learning & Exploring
+- Deep learning optimizations including quantization, binary neural networks, and efficient training techniques  
+- Large language models and multimodal learning systems  
+- Production grade ML deployment using Flask and FastAPI  
+- Quantum computing and quantum machine learning  
+
+---
+
+## 💻 Skills & Tools
+
+**Languages**  
+Python, C++, Java, Rust  
+
+**Machine Learning & Computer Vision**  
+PyTorch, TensorFlow Keras, OpenCV, Hugging Face Transformers, Scikit learn  
+
+**Backend & Systems**  
+REST APIs, WebSockets, gRPC, Flask, FastAPI, Docker, Redis  
+
+**Data & Tooling**  
+NumPy, Pandas, SQL, Git, Linux, CI CD  
+
+---
+
+## 📈 GitHub Stats
+![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahilJain1366&show_icons=true&theme=radical)
+
+---
+
+## 📂 Featured Projects
+- **Plant Disease Diagnosis**  
+  Hybrid CNN ViT based feature extraction with SVM classification, deployed as a Flask API for real time inference  
+
+- **Binary Neural Networks**  
+  Custom training pipelines and optimization strategies for efficient deep learning models  
+
+- **Real Time and Systems Projects**  
+  Microservices, low latency APIs, and performance focused backend systems  
+
+See individual repositories for detailed implementations and documentation.
+
+---
+
+## 📫 Connect With Me
+- **Portfolio:** https://rahiljain1366.github.io/Portfolio  
+- **LinkedIn:** https://www.linkedin.com/in/rahil-jain-3129961b5  
+- **Email:** rahiljain1366@gmail.com  
+
+---
+
+> I value clean architecture, measurable performance improvements, and building systems that scale reliably.
