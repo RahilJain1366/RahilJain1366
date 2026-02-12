@@ -39,7 +39,11 @@ Qiskit, Cirq, Pennylane
 ---
 
 ## 📈 GitHub Stats
-![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahilJain1366&show_icons=true&theme=radical)
+
+![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahilJain1366&show_icons=true&theme=radical&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahilJain1366&layout=compact&theme=radical&v=1)
+
 
 
 ---
