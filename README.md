@@ -7,8 +7,7 @@ My work spans applied machine learning, backend engineering, and systems optimiz
 ---
 
 ## 🔭 Currently Working On
-- Open source contributions in machine learning and systems tooling  
-- Performance optimized ML pipelines and backend services  
+- Open source contributions.
 
 ---
 
@@ -25,7 +24,7 @@ My work spans applied machine learning, backend engineering, and systems optimiz
 **Languages**  
 Python, C++, Java, Rust  
 
-**Machine Learning & Computer Vision**  
+**Deep Learning**  
 PyTorch, TensorFlow Keras, OpenCV, Hugging Face Transformers, Scikit learn  
 
 **Backend & Systems**  
@@ -34,10 +33,14 @@ REST APIs, WebSockets, gRPC, Flask, FastAPI, Docker, Redis
 **Data & Tooling**  
 NumPy, Pandas, SQL, Git, Linux, CI CD  
 
+**Quantum Computing**
+Qiskit, Cirq, Pennylane
+
 ---
 
 ## 📈 GitHub Stats
-![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahilJain1366&show_icons=true&theme=radical)
+![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahilJain1366&show_icons=true&theme=radical&count_private=true
+)
 
 ---
 
