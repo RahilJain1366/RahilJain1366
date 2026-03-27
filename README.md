@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Rahil Jain
+# Hi! I’m Rahil Jain
 
 I am a Computer Engineering graduate student at UT Dallas with professional experience in machine learning systems, distributed backend services, and real time applications. I focus on building reliable, high performance software that bridges research ideas with production ready systems.
 
